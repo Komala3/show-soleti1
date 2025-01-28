@@ -31,3 +31,18 @@
 > "The only thing we have to fear is fear itself": *- Franklin D. Roosevelt* 
 ---
 > "That which does not kill us makes us stronger": *- Friedrich Nietzsche*
+---
+# Code Fencing
+
+This code defines a debounce function, which is commonly used to limit the rate at which a function is called. Specifically, it makes sure that a function (fn) is only executed after a particular period of time (ms) has passed since the last time the debounced function was invoked. If the function is called again within that period, the previous call is cancelled, and the timer is reset.
+
+```javascript
+const debounce = (fn: Function, ms = 300) => {
+	let timeoutId: ReturnType;
+  return function (this: any, ...args: any[]) {
+	  clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => fn.apply(this, args), ms);
+  };
+};
+```
+
