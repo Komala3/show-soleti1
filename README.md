@@ -9,9 +9,9 @@
 2. Mumbai
 3. Hyderabad, it is very easy to get anywhere in these places.
 ### Three sides with which I would like to eat CHICKEN TIKKA MASALA are - 
- nan
- rice
-salad.
+ * nan
+ * rice
+ * salad
 
 
 
