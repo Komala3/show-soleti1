@@ -17,9 +17,12 @@
 # Fav Heros
 4 fav characters that I like most are from ANIME, THOUGH they are played by non living actors , I wish them to be played by living legends, the characters are - Naruto, Itachi, Tsunade, Kakashi - 
 
-| Hero Name    |           REASON                                   |     AGE   |   --------------------------------------------------------------------------------
-|Vijay         | Seems Hard workind as character as Naruto          |    35     |   
-|Pawan Kalyan  | Same like Itachi very selfless                     |    53     |   
+# Table
+
+|   Hero Name  |                      REASON                        |   AGE     |
+|--------------|----------------------------------------------------|-----------|
+| Vijay        | Seems Hard workind as character as Naruto          |    35     |   
+| Pawan Kalyan | Same like Itachi very selfless                     |    53     |   
 | Vijay Shanthi| Veteran actress with great action Skills as Tsunade|    58     |   
 | Mahesh Babu  | Same as kakashi - witty and Handsome               |    49     |   
  ---
