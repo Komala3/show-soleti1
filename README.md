@@ -19,12 +19,15 @@
 
 # Table
 
-|   Hero Name  |                      REASON                        |   AGE     |
-|--------------|----------------------------------------------------|-----------|
-| Vijay        | Seems Hard workind as character as Naruto          |    35     |   
-| Pawan Kalyan | Same like Itachi very selfless                     |    53     |   
-| Vijay Shanthi| Veteran actress with great action Skills as Tsunade|    58     |   
-| Mahesh Babu  | Same as kakashi - witty and Handsome               |    49     |   
- ---
+| Hero Name      | Reason                                         | Age |
+|----------------|------------------------------------------------|-----|
+| Vijay          | Seems Hard working as character as Naruto     | 35  |
+| Pawan Kalyan   | Same like Itachi very selfless                 | 53  |
+| Vijay Shanthi  | Veteran actress with great action Skills as Tsunade | 58  |
+| Mahesh Babu    | Same as Kakashi - witty and Handsome           | 49  |
 
-
+# Favorite Quotes
+---
+> "The only thing we have to fear is fear itself": *- Franklin D. Roosevelt* 
+---
+> "That which does not kill us makes us stronger": *- Friedrich Nietzsche*
